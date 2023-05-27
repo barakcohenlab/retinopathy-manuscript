@@ -1,6 +1,6 @@
 This repository includes code for the analyses described in:
 
-**"Pathogenic variants in Crx have distinct cis-regulatory effects on enhancers and silencers in photoreceptors"**
+**"Pathogenic variants in *Crx* have distinct *cis*-regulatory effects on enhancers and silencers in photoreceptors"**
 
 James L. Shepherdson¹﹐³*\
 Ryan Z. Friedman¹﹐³*\
